@@ -69,3 +69,7 @@ span{
 td:hover>span{
 	visibility: visible;
 }
+
+.special{
+	background-color: #52F7EF;	
+}
